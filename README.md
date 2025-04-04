@@ -1,5 +1,3 @@
-Certainly! Here's a comprehensive README for your project that includes step-by-step instructions on how to clone the repository and highlights the technologies used:
-
 ```markdown
 # Saja Token Exchange
 
